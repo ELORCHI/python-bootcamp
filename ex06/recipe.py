@@ -1,0 +1,5 @@
+cookbook = {
+        'sandwich' : {},
+        'cake' : {},
+        'salad' : {},
+        }
